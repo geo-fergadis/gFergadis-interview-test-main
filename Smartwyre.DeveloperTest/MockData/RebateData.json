@@ -1,0 +1,28 @@
+[
+  {
+
+    "Identifier" : "Rebate1", 
+    "Incentive" : 0,
+    "Amount" : 30,
+    "Percentage" : 10
+     
+  },
+  {
+    "Identifier": "Rebate2",
+    "Incentive": 1,
+    "Amount": 30,
+    "Percentage": 20
+  },
+  {
+    "Identifier": "Rebate3",
+    "Incentive": 2,
+    "Amount": 50,
+    "Percentage": 5
+  },
+  {
+    "Identifier": "Rebate4",
+    "Incentive": 0,
+    "Amount": 30,
+    "Percentage": 15
+  }
+]  
